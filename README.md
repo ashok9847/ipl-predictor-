@@ -1,5 +1,4 @@
-# IPL-2020-Prediction
-
+# IPL-2020-Prediction 2026
 ![](https://repository-images.githubusercontent.com/299325888/77f6e880-034c-11eb-8ee1-b44403c583c2)
 
 ## Deploy
@@ -67,10 +66,8 @@ $ git pull
 
 ## Developer
 
-![Pt. Prashant Tripathi](https://avatars2.githubusercontent.com/u/26687933?s=200&v=4)
 
-- **Pt. Prashant Tripathi** [@PtPrashantTripathi](https://Prashanttripathi.github.io) - _Designer/Devloper_
-
+ashok aryal
 ## Support
 
 Reach out to me at one of the following places!
